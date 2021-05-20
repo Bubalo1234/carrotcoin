@@ -1,6 +1,3 @@
-```markdown
-
-
 # Carrotcoin value
 ## Carrotcoin cost
 Carrotcoin is completely free for all, with open source code.
