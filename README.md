@@ -5,7 +5,7 @@ Waterstar: 50 coin
 Carrot: 10 coin
 
 # shop 
-Shop (use !shop hat):
+Shop (use !shop-hat):
 
 gren hat
 
