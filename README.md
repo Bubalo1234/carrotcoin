@@ -1,0 +1,2 @@
+# carrotcoin
+Carrotcoin
